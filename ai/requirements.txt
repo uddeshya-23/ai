@@ -1,0 +1,6 @@
+Speech Recognition
+pytttsx3
+wikipedia
+pyautogui
+psutil
+pyjokes
